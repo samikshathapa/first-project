@@ -1,2 +1,2 @@
-# first-project
-hello
+clear
+how are you
